@@ -1,11 +1,7 @@
-# DevSearch
-Sourcode and Resources for Django 5 Course
-
-See the full course here: https://dennisivy.teachable.com/p/django-beginners-course
-
+# Developer Connection Platform
 
 # Installation
-* 1 - clone repo https://github.com/divanov11/Django-Course
+* 1 - clone repo https://github.com/Lingeshlk/Developer-Connection-Platform
 * 2 - create a virtual environment and activate
 *  - pip install virtualenv
 *  - virtualenv envname
