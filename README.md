@@ -9,6 +9,7 @@
 * 3 - cd into project "cd Django-Course"
 * 4 - pip install -r requirements.txt
 * 5 - python manage.py runserver
+
   
 
 # Features
